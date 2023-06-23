@@ -1,4 +1,4 @@
-
+//using the if-else statment
 const number = 34;
 
 if (number % 2 === 0) {
